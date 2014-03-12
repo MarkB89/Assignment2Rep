@@ -1,0 +1,35 @@
+.main-content {
+	padding-top: 60px;
+}
+
+.btn.btn-default.navbar-btn.modalbtn {
+	float: right;
+}
+
+.navbar-brand {
+	padding-right:60px;
+}
+
+p {
+	padding-top:30px;
+}
+
+#gmap_canvas {
+	display: relative;
+
+}
+
+.gmap {
+	position: relative;
+	width: 500px;
+	left: 400px;
+	padding-bottom: 60px;
+}
+
+.gmap h3 {
+	padding-bottom: 30px;
+}
+
+hr {
+	height: 3px;
+}
